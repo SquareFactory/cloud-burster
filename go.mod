@@ -5,7 +5,7 @@ go 1.19
 require (
 	github.com/exoscale/egoscale v1.19.0
 	github.com/go-playground/validator/v10 v10.11.1
-	github.com/gophercloud/gophercloud v1.1.0
+	github.com/gophercloud/gophercloud v1.1.1
 	github.com/stretchr/testify v1.8.1
 	github.com/urfave/cli/v2 v2.23.5
 	go.uber.org/zap v1.23.0
