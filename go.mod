@@ -7,7 +7,7 @@ require (
 	github.com/go-playground/validator/v10 v10.11.1
 	github.com/gophercloud/gophercloud v1.1.0
 	github.com/stretchr/testify v1.8.1
-	github.com/urfave/cli/v2 v2.23.5
+	github.com/urfave/cli/v2 v2.23.7
 	go.uber.org/zap v1.23.0
 	gopkg.in/yaml.v3 v3.0.1
 )
